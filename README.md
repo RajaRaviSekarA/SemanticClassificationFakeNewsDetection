@@ -6,6 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -25,6 +26,20 @@
 - Conclusion
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Technologies Used
+- Python Programming
+- RE for regular expression
+- Panda for Data Wrangling and Data manipulation purposes
+- Seaborn to create visually appealing statistical graphics
+- WordCloud generator
+- NLTK Natural Language Toolkit
+- Scikit Learn ML (Machine Learning) Library
+- Word2Vec is an NLP library to convert words into numerical vectors
+- spaCy is an NLP library for processing and analyzing large volumes of text, including Lemmatization, POS tagging
+- All the versions are the latest as of June 2025
+
+<!-- As the library versions keep on changing, it is recommended to mention the version of the library used in this project -->
 
 ## Conclusions
 
@@ -49,24 +64,9 @@ The model will catch false news even at the cost of a few false alarms. Hence, L
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies Used
-- Python Programming
-- RE for regular expression
-- Panda for Data Wrangling and Data manipulation purposes
-- Seaborn to create visually appealing statistical graphics
-- WordCloud generator
-- NLTK Natural Language Toolkit
-- Scikit Learn ML (Machine Learning) Library
-- Word2Vec is an NLP library to convert words into numerical vectors
-- spaCy is an NLP library for processing and analyzing large volumes of text, including Lemmatization, POS tagging
-- All the versions are the latest as of June 2025
-
-<!-- As the library versions keep on changing, it is recommended to mention the version of the library used in this project -->
-
 ## Acknowledgements
 I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK
-- This project was inspired by all the Professors who trained during the Semantic Classification, namely
-  - Apurva Kulkarni - Professor, IIIT-B
+- This project was inspired by all the Professors who trained during the Semantic Classification, namely Apurva Kulkarni - Professor, IIIT-B
 
 ## Contact
 Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
