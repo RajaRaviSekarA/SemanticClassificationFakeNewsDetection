@@ -37,16 +37,15 @@ Traditional text classification often fails to detect semantic subtleties. Using
 
 ### Model Comparison Summary
 
-Model	              Accuracy	    Precision	Recall	F1 Score
-Logistic Regression	0.9417	      0.9332	  0.9454	0.9392
-Decision Tree	      0.8898	      0.9021	  0.8625	0.8818
-Random Forest	      0.9390	      0.9450	  0.9260	0.9354
+| Model               | Accuracy | Precision | Recall | F1 Score |
+| :------------------ | :------- | :-------- | :----- | :------- |
+| Logistic Regression | 0.9417   | 0.9332    | 0.9454 | 0.9392   |
+| Decision Tree       | 0.8898   | 0.9021    | 0.8625 | 0.8818   |
+| Random Forest       | 0.9390   | 0.9450    | 0.9260 | 0.9354   |
 
 #### Best Model: Logistic Regression, Random Forest slightly outperformed in precision, but the Logistic Regression provided: Highest overall F1 Score (0.9392) and the Best Recall (0.9454) — which is critical in this context
 
-The model will catch false news even at the cost of a few false alarms
-
-Hence, Logistic Regression was chosen as the most balanced and reliable classifier.
+The model will catch false news even at the cost of a few false alarms. Hence, Logistic Regression was chosen as the most balanced and reliable classifier.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
